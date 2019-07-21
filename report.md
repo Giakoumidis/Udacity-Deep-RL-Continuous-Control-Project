@@ -1,4 +1,4 @@
-#<center>Solution Report<center>
+# <center>Solution Report<center>
 
 
 ## Solution
