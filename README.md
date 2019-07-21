@@ -19,7 +19,7 @@ For this project, we will provide you with two separate versions of the Unity en
  - The first version contains a single agent.
  - The second version contains 20 identical agents, each with its own copy of the environment.
 
-PLease note that in this solution the second version has been chosen to be solved.
+Please note that in this solution the second version has been chosen to be solved.
 More detailed description can be found in this [paper](https://arxiv.org/pdf/1809.02627.pdf).
 
 
