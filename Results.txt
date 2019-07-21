@@ -1,0 +1,127 @@
+Episode 1	Total Average Score: 0.35	Mean: 0.35	Min: 0.00	Max: 1.13	Duration: 8.34
+Episode 2	Total Average Score: 0.57	Mean: 0.79	Min: 0.20	Max: 1.76	Duration: 9.34
+Episode 3	Total Average Score: 0.55	Mean: 0.51	Min: 0.00	Max: 1.24	Duration: 10.46
+Episode 4	Total Average Score: 0.62	Mean: 0.83	Min: 0.17	Max: 1.76	Duration: 10.40
+Episode 5	Total Average Score: 0.64	Mean: 0.71	Min: 0.00	Max: 1.80	Duration: 10.35
+Episode 6	Total Average Score: 0.66	Mean: 0.75	Min: 0.12	Max: 1.99	Duration: 10.74
+Episode 7	Total Average Score: 0.69	Mean: 0.90	Min: 0.29	Max: 1.77	Duration: 11.53
+Episode 8	Total Average Score: 0.67	Mean: 0.51	Min: 0.00	Max: 1.56	Duration: 11.64
+Episode 9	Total Average Score: 0.66	Mean: 0.58	Min: 0.04	Max: 1.79	Duration: 12.04
+Episode 10	Total Average Score: 0.65	Mean: 0.60	Min: 0.00	Max: 1.93	Duration: 12.89
+Episode 10 (13 sec)  -- 	Min: 0.0	Max: 1.9	Mean: 0.6
+Episode 11	Total Average Score: 0.66	Mean: 0.72	Min: 0.09	Max: 1.54	Duration: 11.94
+Episode 12	Total Average Score: 0.71	Mean: 1.25	Min: 0.30	Max: 2.90	Duration: 12.53
+Episode 13	Total Average Score: 0.76	Mean: 1.32	Min: 0.21	Max: 2.92	Duration: 14.00
+Episode 14	Total Average Score: 0.83	Mean: 1.74	Min: 0.42	Max: 4.02	Duration: 14.89
+Episode 15	Total Average Score: 0.88	Mean: 1.68	Min: 0.31	Max: 3.89	Duration: 13.85
+Episode 16	Total Average Score: 0.98	Mean: 2.40	Min: 0.72	Max: 4.52	Duration: 15.33
+Episode 17	Total Average Score: 1.05	Mean: 2.26	Min: 0.65	Max: 4.29	Duration: 14.92
+Episode 18	Total Average Score: 1.17	Mean: 3.20	Min: 1.38	Max: 7.53	Duration: 15.56
+Episode 19	Total Average Score: 1.30	Mean: 3.58	Min: 1.28	Max: 11.72	Duration: 15.92
+Episode 20	Total Average Score: 1.42	Mean: 3.74	Min: 1.84	Max: 7.65	Duration: 17.11
+Episode 20 (17 sec)  -- 	Min: 1.8	Max: 7.6	Mean: 3.7
+Episode 21	Total Average Score: 1.55	Mean: 4.11	Min: 0.36	Max: 11.53	Duration: 16.91
+Episode 22	Total Average Score: 1.75	Mean: 5.86	Min: 2.66	Max: 9.84	Duration: 17.06
+Episode 23	Total Average Score: 1.94	Mean: 6.19	Min: 1.50	Max: 10.64	Duration: 17.89
+Episode 24	Total Average Score: 2.14	Mean: 6.87	Min: 3.18	Max: 12.49	Duration: 19.27
+Episode 25	Total Average Score: 2.39	Mean: 8.35	Min: 2.68	Max: 14.80	Duration: 19.53
+Episode 26	Total Average Score: 2.69	Mean: 10.11	Min: 5.74	Max: 21.35	Duration: 18.89
+Episode 27	Total Average Score: 2.99	Mean: 10.86	Min: 0.68	Max: 15.99	Duration: 19.86
+Episode 28	Total Average Score: 3.29	Mean: 11.22	Min: 2.56	Max: 17.00	Duration: 19.88
+Episode 29	Total Average Score: 3.62	Mean: 12.98	Min: 9.82	Max: 23.55	Duration: 21.68
+Episode 30	Total Average Score: 3.87	Mean: 11.13	Min: 5.88	Max: 23.25	Duration: 21.79
+Episode 30 (22 sec)  -- 	Min: 5.9	Max: 23.2	Mean: 11.1
+Episode 31	Total Average Score: 4.16	Mean: 12.88	Min: 0.30	Max: 21.61	Duration: 21.22
+Episode 32	Total Average Score: 4.54	Mean: 16.15	Min: 2.71	Max: 30.62	Duration: 21.57
+Episode 33	Total Average Score: 4.94	Mean: 17.96	Min: 9.34	Max: 22.15	Duration: 22.23
+Episode 34	Total Average Score: 5.32	Mean: 17.83	Min: 2.08	Max: 22.78	Duration: 22.74
+Episode 35	Total Average Score: 5.75	Mean: 20.39	Min: 13.18	Max: 27.24	Duration: 23.32
+Episode 36	Total Average Score: 6.15	Mean: 20.04	Min: 12.66	Max: 24.49	Duration: 23.75
+Episode 37	Total Average Score: 6.55	Mean: 20.79	Min: 13.32	Max: 26.79	Duration: 24.22
+Episode 38	Total Average Score: 6.95	Mean: 21.92	Min: 15.52	Max: 28.76	Duration: 24.56
+Episode 39	Total Average Score: 7.34	Mean: 22.02	Min: 17.00	Max: 30.20	Duration: 25.30
+Episode 40	Total Average Score: 7.70	Mean: 22.07	Min: 13.96	Max: 26.06	Duration: 25.54
+Episode 40 (26 sec)  -- 	Min: 14.0	Max: 26.1	Mean: 22.1
+Episode 41	Total Average Score: 8.10	Mean: 23.92	Min: 11.41	Max: 31.37	Duration: 25.98
+Episode 42	Total Average Score: 8.53	Mean: 26.03	Min: 15.21	Max: 36.51	Duration: 26.33
+Episode 43	Total Average Score: 8.98	Mean: 27.88	Min: 18.07	Max: 34.71	Duration: 26.30
+Episode 44	Total Average Score: 9.40	Mean: 27.76	Min: 15.30	Max: 34.64	Duration: 26.87
+Episode 45	Total Average Score: 9.84	Mean: 29.13	Min: 20.95	Max: 37.14	Duration: 27.68
+Episode 46	Total Average Score: 10.30	Mean: 30.87	Min: 21.19	Max: 35.59	Duration: 28.31
+Episode 47	Total Average Score: 10.74	Mean: 30.92	Min: 22.66	Max: 38.75	Duration: 29.13
+Episode 48	Total Average Score: 11.18	Mean: 32.14	Min: 26.57	Max: 36.62	Duration: 29.15
+Episode 49	Total Average Score: 11.62	Mean: 32.70	Min: 24.19	Max: 37.82	Duration: 29.15
+Episode 50	Total Average Score: 12.08	Mean: 34.40	Min: 28.86	Max: 37.51	Duration: 30.81
+Episode 50 (31 sec)  -- 	Min: 28.9	Max: 37.5	Mean: 34.4
+Episode 51	Total Average Score: 12.52	Mean: 34.73	Min: 29.64	Max: 39.02	Duration: 30.52
+Episode 52	Total Average Score: 12.97	Mean: 35.70	Min: 29.87	Max: 39.33	Duration: 31.18
+Episode 53	Total Average Score: 13.42	Mean: 36.99	Min: 33.64	Max: 39.65	Duration: 29.48
+Episode 54	Total Average Score: 13.84	Mean: 36.19	Min: 30.53	Max: 38.51	Duration: 29.75
+Episode 55	Total Average Score: 14.25	Mean: 35.99	Min: 29.95	Max: 38.65	Duration: 31.16
+Episode 56	Total Average Score: 14.66	Mean: 37.16	Min: 34.78	Max: 39.18	Duration: 31.32
+Episode 57	Total Average Score: 15.04	Mean: 36.51	Min: 31.22	Max: 38.72	Duration: 32.05
+Episode 58	Total Average Score: 15.41	Mean: 36.86	Min: 34.44	Max: 38.96	Duration: 31.14
+Episode 59	Total Average Score: 15.80	Mean: 37.98	Min: 35.87	Max: 39.33	Duration: 31.46
+Episode 60	Total Average Score: 16.16	Mean: 37.33	Min: 25.69	Max: 39.57	Duration: 31.69
+Episode 60 (32 sec)  -- 	Min: 25.7	Max: 39.6	Mean: 37.3
+Episode 61	Total Average Score: 16.51	Mean: 37.69	Min: 33.51	Max: 39.27	Duration: 31.53
+Episode 62	Total Average Score: 16.83	Mean: 36.66	Min: 34.66	Max: 38.71	Duration: 31.07
+Episode 63	Total Average Score: 17.17	Mean: 37.92	Min: 33.85	Max: 39.09	Duration: 30.60
+Episode 64	Total Average Score: 17.49	Mean: 37.54	Min: 34.53	Max: 39.07	Duration: 31.64
+Episode 65	Total Average Score: 17.80	Mean: 38.01	Min: 36.36	Max: 39.37	Duration: 30.56
+Episode 66	Total Average Score: 18.11	Mean: 38.38	Min: 35.93	Max: 39.63	Duration: 31.36
+Episode 67	Total Average Score: 18.41	Mean: 37.99	Min: 36.14	Max: 38.70	Duration: 32.38
+Episode 68	Total Average Score: 18.69	Mean: 37.64	Min: 32.09	Max: 39.31	Duration: 31.08
+Episode 69	Total Average Score: 18.98	Mean: 38.45	Min: 35.84	Max: 39.58	Duration: 30.35
+Episode 70	Total Average Score: 19.26	Mean: 38.31	Min: 35.61	Max: 39.58	Duration: 30.06
+Episode 70 (30 sec)  -- 	Min: 35.6	Max: 39.6	Mean: 38.3
+Episode 71	Total Average Score: 19.53	Mean: 38.69	Min: 36.86	Max: 39.62	Duration: 30.32
+Episode 72	Total Average Score: 19.80	Mean: 38.99	Min: 37.64	Max: 39.60	Duration: 31.58
+Episode 73	Total Average Score: 20.04	Mean: 37.38	Min: 35.50	Max: 39.06	Duration: 30.81
+Episode 74	Total Average Score: 20.28	Mean: 37.40	Min: 35.48	Max: 38.87	Duration: 31.15
+Episode 75	Total Average Score: 20.50	Mean: 37.32	Min: 33.25	Max: 39.17	Duration: 30.79
+Episode 76	Total Average Score: 20.73	Mean: 37.40	Min: 35.55	Max: 38.94	Duration: 30.46
+Episode 77	Total Average Score: 20.95	Mean: 37.99	Min: 34.69	Max: 39.47	Duration: 31.33
+Episode 78	Total Average Score: 21.16	Mean: 37.58	Min: 34.43	Max: 39.45	Duration: 31.48
+Episode 79	Total Average Score: 21.38	Mean: 37.98	Min: 35.21	Max: 38.91	Duration: 29.82
+Episode 80	Total Average Score: 21.59	Mean: 38.42	Min: 37.04	Max: 39.31	Duration: 31.09
+Episode 80 (31 sec)  -- 	Min: 37.0	Max: 39.3	Mean: 38.4
+Episode 81	Total Average Score: 21.79	Mean: 38.23	Min: 36.74	Max: 39.52	Duration: 30.62
+Episode 82	Total Average Score: 21.99	Mean: 37.93	Min: 36.13	Max: 39.28	Duration: 30.65
+Episode 83	Total Average Score: 22.19	Mean: 38.22	Min: 36.33	Max: 39.36	Duration: 30.19
+Episode 84	Total Average Score: 22.37	Mean: 37.68	Min: 35.73	Max: 39.24	Duration: 30.54
+Episode 85	Total Average Score: 22.55	Mean: 37.29	Min: 32.72	Max: 39.26	Duration: 30.46
+Episode 86	Total Average Score: 22.73	Mean: 38.22	Min: 36.21	Max: 39.45	Duration: 31.15
+Episode 87	Total Average Score: 22.90	Mean: 37.55	Min: 35.69	Max: 39.13	Duration: 32.36
+Episode 88	Total Average Score: 23.07	Mean: 37.81	Min: 36.68	Max: 39.01	Duration: 30.80
+Episode 89	Total Average Score: 23.23	Mean: 37.62	Min: 35.35	Max: 39.09	Duration: 30.65
+Episode 90	Total Average Score: 23.39	Mean: 37.24	Min: 34.15	Max: 39.26	Duration: 30.64
+Episode 90 (31 sec)  -- 	Min: 34.1	Max: 39.3	Mean: 37.2
+Episode 91	Total Average Score: 23.55	Mean: 38.22	Min: 36.33	Max: 39.37	Duration: 31.19
+Episode 92	Total Average Score: 23.70	Mean: 37.57	Min: 35.71	Max: 38.94	Duration: 31.06
+Episode 93	Total Average Score: 23.85	Mean: 37.32	Min: 35.42	Max: 38.32	Duration: 31.87
+Episode 94	Total Average Score: 24.00	Mean: 38.28	Min: 36.91	Max: 39.52	Duration: 30.19
+Episode 95	Total Average Score: 24.15	Mean: 37.91	Min: 36.14	Max: 39.50	Duration: 30.80
+Episode 96	Total Average Score: 24.29	Mean: 37.42	Min: 36.06	Max: 38.74	Duration: 30.15
+Episode 97	Total Average Score: 24.43	Mean: 37.83	Min: 36.57	Max: 39.15	Duration: 30.84
+Episode 98	Total Average Score: 24.57	Mean: 38.43	Min: 37.50	Max: 39.12	Duration: 29.79
+Episode 99	Total Average Score: 24.70	Mean: 37.50	Min: 35.82	Max: 39.04	Duration: 33.23
+Episode 100	Total Average Score: 24.83	Mean: 37.87	Min: 33.81	Max: 39.56	Duration: 30.62
+Episode 100 (31 sec)  -- 	Min: 33.8	Max: 39.6	Mean: 37.9
+Episode 101	Total Average Score: 25.21	Mean: 37.73	Min: 33.94	Max: 38.94	Duration: 30.65
+Episode 102	Total Average Score: 25.58	Mean: 38.25	Min: 36.79	Max: 39.47	Duration: 30.36
+Episode 103	Total Average Score: 25.96	Mean: 38.07	Min: 34.38	Max: 39.17	Duration: 31.82
+Episode 104	Total Average Score: 26.33	Mean: 38.05	Min: 35.41	Max: 39.32	Duration: 32.52
+Episode 105	Total Average Score: 26.70	Mean: 38.23	Min: 36.57	Max: 39.59	Duration: 31.47
+Episode 106	Total Average Score: 27.08	Mean: 38.59	Min: 37.03	Max: 39.56	Duration: 30.17
+Episode 107	Total Average Score: 27.45	Mean: 37.94	Min: 35.30	Max: 39.30	Duration: 29.90
+Episode 108	Total Average Score: 27.83	Mean: 38.06	Min: 35.69	Max: 39.28	Duration: 30.45
+Episode 109	Total Average Score: 28.20	Mean: 37.78	Min: 34.91	Max: 39.48	Duration: 31.65
+Episode 110	Total Average Score: 28.58	Mean: 38.07	Min: 35.72	Max: 39.18	Duration: 31.70
+Episode 110 (32 sec)  -- 	Min: 35.7	Max: 39.2	Mean: 38.1
+Episode 111	Total Average Score: 28.95	Mean: 37.83	Min: 35.27	Max: 39.45	Duration: 30.31
+Episode 112	Total Average Score: 29.31	Mean: 37.31	Min: 35.62	Max: 39.06	Duration: 30.79
+Episode 113	Total Average Score: 29.67	Mean: 37.68	Min: 35.33	Max: 39.16	Duration: 30.47
+Episode 114	Total Average Score: 30.03	Mean: 38.01	Min: 36.15	Max: 39.52	Duration: 32.95
+Problem Solved after 114 epsisodes Total Average score: 30.03
+
