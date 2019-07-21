@@ -66,6 +66,6 @@ and then tweaked based on the results of multiple runs.
 
 ##### Experiment with other algorithms: 
  - [Trust Region Policy Optimization (TRPO)](https://arxiv.org/abs/1502.05477)
- - [Proximal Policy Optimization (PPO)](Proximal Policy Optimization Algorithms)
+ - [Proximal Policy Optimization (PPO)](https://arxiv.org/pdf/1707.06347.pdf)
  - [Distributed Distributional Deterministic Policy Gradients (D4PG)](https://arxiv.org/abs/1804.08617)
 
