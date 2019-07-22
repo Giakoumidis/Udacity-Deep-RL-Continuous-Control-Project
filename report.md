@@ -5,7 +5,7 @@
 
 #### Method 
 
-The agent will be trained using a Deep Deterministic Policy Gradients (DDPQ) algorithm based on this [paper](hhttps://arxiv.org/pdf/1509.02971.pdf) .
+The agent will be trained using a Deep Deterministic Policy Gradients (DDPQ) algorithm based on this [paper](https://arxiv.org/pdf/1509.02971.pdf) .
 
 The solution is deploying the Deep Deterministic Policy Gradient (DDPG) based on the [DDPG-Bipedal](https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-bipedal) and [DDPG-Pendulum](https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum) Udacity projects.
 
